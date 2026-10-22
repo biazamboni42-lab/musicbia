@@ -1,7 +1,7 @@
 <header>
     <!-- Nome do sistema -->
     <h1 class="logo-header">
-        <img src="../img/logo.png" alt="Logo do Sistema de Músicas">
+        <img src="/musicbia/img/logo.png" alt="Logo do Sistema de Músicas">
         Sistema de Músicas</h1>
 
     <!-- Menu de navegação -->
