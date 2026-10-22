@@ -1,9 +1,9 @@
 <?php
 // Dados de acesso ao banco
-$host = "192.168.10.12";
-$dbname = "musicas";
-$user = "musicas";
-$pass = "senha67";
+$host = "SEU_IP";
+$dbname = "SEU_DT";
+$user = "SEU_USER";
+$pass = "SUA_SENHA";
 
 try {
 // Realiza a conexão com o PostgreSQL
