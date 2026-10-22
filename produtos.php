@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Arquivo de estilos -->
-      <link rel="stylesheet" href="../style/style.css">
+      <link rel="stylesheet" href="/musicbia/style/style.css">
       <title>Produtos - Sistema de Músicas</title>
 
 </head>
