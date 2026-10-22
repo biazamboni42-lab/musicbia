@@ -33,7 +33,6 @@ O desenvolvimento tem como objetivo praticar:
 - Autenticação básica com sessões;
 - Organização dos arquivos em diretórios.
 
-> **Importante:** este é um projeto de estudo. Antes de publicá-lo na internet, é necessário corrigir as limitações de segurança descritas neste README.
 
 ## 2. Funcionalidades
 
